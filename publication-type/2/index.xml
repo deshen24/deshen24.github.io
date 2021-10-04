@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Dennis Shen</title>
+    <link>https://deshen24.github.io/publication-type/2.html</link>
+      <atom:link href="https://deshen24.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://deshen24.github.io/images/icon_hu4c7d580c7741c2ee4e50fc784fb69b28_4521_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://deshen24.github.io/publication-type/2.html</link>
+    </image>
+    
+    <item>
+      <title>Multi-dimensional Robust Synthetic Control</title>
+      <link>https://deshen24.github.io/publication/mrsc.html</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/mrsc.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Agnostic Time Series Analysis via Matrix Estimation</title>
+      <link>https://deshen24.github.io/publication/ts.html</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/ts.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Synthetic Control</title>
+      <link>https://deshen24.github.io/publication/rsc.html</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/rsc.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

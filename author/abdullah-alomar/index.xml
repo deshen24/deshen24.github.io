@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdullah Alomar | Dennis Shen</title>
+    <link>https://deshen24.github.io/author/abdullah-alomar.html</link>
+      <atom:link href="https://deshen24.github.io/author/abdullah-alomar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abdullah Alomar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://deshen24.github.io/images/icon_hu4c7d580c7741c2ee4e50fc784fb69b28_4521_512x512_fill_lanczos_center_2.png</url>
+      <title>Abdullah Alomar</title>
+      <link>https://deshen24.github.io/author/abdullah-alomar.html</link>
+    </image>
+    
+    <item>
+      <title>PerSim: Data-efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators</title>
+      <link>https://deshen24.github.io/publication/persim.html</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/persim.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Burning Questions on COVID-19</title>
+      <link>https://deshen24.github.io/publication/covid19.html</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/covid19.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

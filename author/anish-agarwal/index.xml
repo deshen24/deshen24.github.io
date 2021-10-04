@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anish Agarwal | Dennis Shen</title>
+    <link>https://deshen24.github.io/author/anish-agarwal.html</link>
+      <atom:link href="https://deshen24.github.io/author/anish-agarwal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anish Agarwal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://deshen24.github.io/images/icon_hu4c7d580c7741c2ee4e50fc784fb69b28_4521_512x512_fill_lanczos_center_2.png</url>
+      <title>Anish Agarwal</title>
+      <link>https://deshen24.github.io/author/anish-agarwal.html</link>
+    </image>
+    
+    <item>
+      <title>Causal Matrix Completion</title>
+      <link>https://deshen24.github.io/publication/snn.html</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/snn.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PerSim: Data-efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators</title>
+      <link>https://deshen24.github.io/publication/persim.html</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/persim.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Heterogeneous Drug Effects on Gene Expression across Cell Types</title>
+      <link>https://deshen24.github.io/publication/broad.html</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/broad.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Principal Component Regression in a High-dimensional Error-in-variables Setting</title>
+      <link>https://deshen24.github.io/publication/pcr_aos.html</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/pcr_aos.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Interventions</title>
+      <link>https://deshen24.github.io/publication/si.html</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/si.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Burning Questions on COVID-19</title>
+      <link>https://deshen24.github.io/publication/covid19.html</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/covid19.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Robustness of Principal Component Regression</title>
+      <link>https://deshen24.github.io/publication/pcr.html</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/pcr.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Agnostic Time Series Analysis via Matrix Estimation</title>
+      <link>https://deshen24.github.io/publication/ts.html</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/ts.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jehangir Amjad | Dennis Shen</title>
+    <link>https://deshen24.github.io/author/jehangir-amjad.html</link>
+      <atom:link href="https://deshen24.github.io/author/jehangir-amjad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jehangir Amjad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://deshen24.github.io/images/icon_hu4c7d580c7741c2ee4e50fc784fb69b28_4521_512x512_fill_lanczos_center_2.png</url>
+      <title>Jehangir Amjad</title>
+      <link>https://deshen24.github.io/author/jehangir-amjad.html</link>
+    </image>
+    
+    <item>
+      <title>Multi-dimensional Robust Synthetic Control</title>
+      <link>https://deshen24.github.io/publication/mrsc.html</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/mrsc.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

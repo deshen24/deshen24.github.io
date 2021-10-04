@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biology | Dennis Shen</title>
+    <link>https://deshen24.github.io/tag/biology.html</link>
+      <atom:link href="https://deshen24.github.io/tag/biology/index.xml" rel="self" type="application/rss+xml" />
+    <description>biology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://deshen24.github.io/images/icon_hu4c7d580c7741c2ee4e50fc784fb69b28_4521_512x512_fill_lanczos_center_2.png</url>
+      <title>biology</title>
+      <link>https://deshen24.github.io/tag/biology.html</link>
+    </image>
+    
+    <item>
+      <title>Drug Discovery</title>
+      <link>https://deshen24.github.io/project/biology.html</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 -0700</pubDate>
+      <guid>https://deshen24.github.io/project/biology.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dennis Shen</title>
+    <link>https://deshen24.github.io/</link>
+      <atom:link href="https://deshen24.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dennis Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://deshen24.github.io/images/icon_hu4c7d580c7741c2ee4e50fc784fb69b28_4521_512x512_fill_lanczos_center_2.png</url>
+      <title>Dennis Shen</title>
+      <link>https://deshen24.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Causal Matrix Completion</title>
+      <link>https://deshen24.github.io/publication/snn.html</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/snn.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PerSim: Data-efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators</title>
+      <link>https://deshen24.github.io/publication/persim.html</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/persim.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Heterogeneous Drug Effects on Gene Expression across Cell Types</title>
+      <link>https://deshen24.github.io/publication/broad.html</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/broad.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Principal Component Regression in a High-dimensional Error-in-variables Setting</title>
+      <link>https://deshen24.github.io/publication/pcr_aos.html</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/pcr_aos.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Interventions</title>
+      <link>https://deshen24.github.io/publication/si.html</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/si.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://deshen24.github.io/project/covid.html</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 -0700</pubDate>
+      <guid>https://deshen24.github.io/project/covid.html</guid>
+      <description>&lt;p&gt;As we reach the apex of the COVID-19 pandemic, the most pressing question
+facing us is: can we even partially reopen the economy without risking a second
+wave? Towards this, we need to understand if shutting down the economy helped.
+And if it did, is it possible to achieve similar gains in the war against the
+pandemic while partially opening up the economy? To do so, it is critical to
+understand the effects of the various interventions that can be put into place
+and their corresponding health and economic implications. Since many
+interventions exist, the key challenge facing policy makers is understanding
+the potential trade-offs between them, and choosing the particular set of
+interventions that works best for their circumstance.&lt;/p&gt;
+&lt;p&gt;In this memo, we provide an overview of Synthetic Interventions (a natural
+generalization of Synthetic Control), a data-driven and statistically
+principled method to perform what-if scenario planning, i.e., for policy makers
+to understand the trade-offs between different interventions before having to
+actually enact them. In essence, the method leverages information from
+different interventions that have already been enacted across the world and
+fits it to a policy maker&amp;rsquo;s setting of interest, e.g., to estimate the effect
+of mobility-restricting interventions on the U.S., we use daily death data from
+countries that enforced severe mobility restrictions to create a &amp;ldquo;synthetic low
+mobility U.S.&amp;rdquo; and predict the counterfactual trajectory of the U.S. if it had
+indeed applied a similar intervention.&lt;/p&gt;
+&lt;p&gt;Using Synthetic Interventions, we find that lifting severe mobility
+restrictions and only retaining moderate mobility restrictions (at retail and
+transit locations), seems to effectively flatten the curve. We hope provides
+guidance on weighing the trade-offs between the safety of the population,
+strain on the healthcare system, and impact on the economy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drug Discovery</title>
+      <link>https://deshen24.github.io/project/biology.html</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 -0700</pubDate>
+      <guid>https://deshen24.github.io/project/biology.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Burning Questions on COVID-19</title>
+      <link>https://deshen24.github.io/publication/covid19.html</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/covid19.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Robustness of Principal Component Regression</title>
+      <link>https://deshen24.github.io/publication/pcr.html</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/pcr.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-dimensional Robust Synthetic Control</title>
+      <link>https://deshen24.github.io/publication/mrsc.html</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/mrsc.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Agnostic Time Series Analysis via Matrix Estimation</title>
+      <link>https://deshen24.github.io/publication/ts.html</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/ts.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Synthetic Control</title>
+      <link>https://deshen24.github.io/publication/rsc.html</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/rsc.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
