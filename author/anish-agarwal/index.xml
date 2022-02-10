@@ -5,12 +5,20 @@
     <link>https://deshen24.github.io/author/anish-agarwal.html</link>
       <atom:link href="https://deshen24.github.io/author/anish-agarwal/index.xml" rel="self" type="application/rss+xml" />
     <description>Anish Agarwal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://deshen24.github.io/images/icon_hu88828fdc76496a07abde24bb1a2bf5c6_4899448_512x512_fill_lanczos_center_2.png</url>
       <title>Anish Agarwal</title>
       <link>https://deshen24.github.io/author/anish-agarwal.html</link>
     </image>
+    
+    <item>
+      <title>Causal Imputation via Synthetic Interventions</title>
+      <link>https://deshen24.github.io/publication/broad.html</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/broad.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causal Matrix Completion</title>
@@ -25,14 +33,6 @@
       <link>https://deshen24.github.io/publication/persim.html</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://deshen24.github.io/publication/persim.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Heterogeneous Drug Effects on Gene Expression across Cell Types</title>
-      <link>https://deshen24.github.io/publication/broad.html</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://deshen24.github.io/publication/broad.html</guid>
       <description></description>
     </item>
     
