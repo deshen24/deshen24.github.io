@@ -5,12 +5,20 @@
     <link>https://deshen24.github.io/author/dennis-shen.html</link>
       <atom:link href="https://deshen24.github.io/author/dennis-shen/index.xml" rel="self" type="application/rss+xml" />
     <description>Dennis Shen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://deshen24.github.io/author/dennis-shen/avatar_hue0372f09d85b72869904fc4dec938e65_815985_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Dennis Shen</title>
       <link>https://deshen24.github.io/author/dennis-shen.html</link>
     </image>
+    
+    <item>
+      <title>Public health implications of opening National Football League stadiums during the COVID-19 pandemic</title>
+      <link>https://deshen24.github.io/publication/nfl.html</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://deshen24.github.io/publication/nfl.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causal Imputation via Synthetic Interventions</title>
