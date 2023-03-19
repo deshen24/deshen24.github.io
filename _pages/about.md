@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor. <a href='https://www.marshall.usc.edu/departments/data-sciences-and-operations'>DSO Department</a>. <a href='https://www.marshall.usc.edu/'>USC Marshall Business School</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I will start as an Assistant Professor in the [Department of Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) at [USC Marshall Business School](https://www.marshall.usc.edu/) in Fall 2023. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a [FODSI](https://fodsi.us/) postdoc at the [Simons Institute](https://simons.berkeley.edu/homepage) at [UC Berkeley](https://www.berkeley.edu/), where I am fortunate to be hosted by Professors [Peng Ding](https://sites.google.com/site/pengdingpku/), [Jasjeet Sekhon](https://statistics.yale.edu/people/jas-sekhon), and [Bin Yu](https://binyu.stat.berkeley.edu/). Previously, I completed my PhD in [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) from [MIT](https://www.mit.edu/), where I was fortunate to be advised by Professor [Devavrat Shah](https://devavrat.mit.edu). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
