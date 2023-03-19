@@ -1,84 +1,138 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+@article{jmlr_rsc,
+  author  = {Amjad, Muhammad and Shah, Devavrat and Shen, Dennis},
+  title   = {Robust Synthetic Control},
+  journal = {Journal of Machine Learning Research},
+  year    = {2018},
+  volume  = {19},
+  number  = {22},
+  pages   = {1--51},
+  url     = {http://jmlr.org/papers/v19/17-777.html}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+@article{jasa_pcr,
+author = {Anish Agarwal and Devavrat Shah and Dennis Shen and Dogyoon Song},
+title = {On Robustness of Principal Component Regression},
+journal = {Journal of the American Statistical Association},
+volume = {116},
+number = {536},
+pages = {1731-1745},
+year  = {2021},
+publisher = {Taylor & Francis},
+URL = {https://doi.org/10.1080/01621459.2021.1928513},
+eprint = {https://doi.org/10.1080/01621459.2021.1928513}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
+@article{ts1,
+author = {Agarwal, Anish and Amjad, Muhammad Jehangir and Shah, Devavrat and Shen, Dennis},
+title = {Model Agnostic Time Series Analysis via Matrix Estimation},
+year = {2018},
+issue_date = {December 2018},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {2},
+number = {3},
+url = {https://doi.org/10.1145/3287319},
+journal = {Proc. ACM Meas. Anal. Comput. Syst.},
+month = {dec},
+articleno = {40},
+numpages = {39}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@article{synth_ab,
+      title={Synthetic A/B Testing using Synthetic Interventions}, 
+      author={Anish Agarwal and Devavrat Shah and Dennis Shen},
+      year={2023},
+      eprint={2006.07691},
+      archivePrefix={arXiv},
+      primaryClass={econ.EM}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@article{causal_mc,
+      title={Causal Matrix Completion}, 
+      author={Anish Agarwal and Munther Dahleh and Devavrat Shah and Dennis Shen},
+      year={2021},
+      eprint={2109.15154},
+      archivePrefix={arXiv},
+      primaryClass={econ.EM}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{pmlr-v177-squires22b,
+  title = 	 {Causal Imputation via Synthetic Interventions},
+  author =       {Squires, Chandler and Shen, Dennis and Agarwal, Anish and Shah, Devavrat and Uhler, Caroline},
+  booktitle = 	 {Proceedings of the First Conference on Causal Learning and Reasoning},
+  pages = 	 {688--711},
+  year = 	 {2022},
+  editor = 	 {Schölkopf, Bernhard and Uhler, Caroline and Zhang, Kun},
+  volume = 	 {177},
+  series = 	 {Proceedings of Machine Learning Research},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v177/squires22b/squires22b.pdf},
+  url = 	 {https://proceedings.mlr.press/v177/squires22b.html},
+  abstract = 	 {Consider the problem of determining the effect of a compound on a specific cell type. To answer this question, researchers traditionally need to run an experiment applying the drug of interest to that cell type. This approach is not scalable: given a large number of different actions (compounds) and a large number of different contexts (cell types), it is infeasible to run an experiment for every action-context pair. In such cases, one would ideally like to predict the outcome for every pair while only needing outcome data for a small _subset_ of pairs. This task, which we label "causal imputation", is a generalization of the causal transportability problem. To address this challenge, we extend the recently introduced _synthetic interventions_ (SI) estimator to handle more general data sparsity patterns. We prove that, under a latent factor model, our estimator provides valid estimates for the causal imputation task. We motivate this model by establishing a connection to the linear structural causal model literature. Finally, we consider the prominent CMAP dataset in predicting the effects of compounds on gene expression across cell types. We find that our estimator outperforms standard baselines, thus confirming its utility in biological applications. }
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@inproceedings{NEURIPS2021_9a3f263a,
+ author = {Agarwal, Anish and Alomar, Abdullah and Alumootil, Varkey and Shah, Devavrat and Shen, Dennis and Xu, Zhi and Yang, Cindy},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+ pages = {18564--18576},
+ publisher = {Curran Associates, Inc.},
+ title = {PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators},
+ url = {https://proceedings.neurips.cc/paper/2021/file/9a3f263a5e5f63006098a05cd7491997-Paper.pdf},
+ volume = {34},
+ year = {2021}
 }
+
+@article{agarwal2022model,
+      title={On Model Identification and Out-of-Sample Prediction of Principal Component Regression: Applications to Synthetic Controls}, 
+      author={Anish Agarwal and Devavrat Shah and Dennis Shen},
+      year={2022},
+      eprint={2010.14449},
+      archivePrefix={arXiv},
+      primaryClass={math.ST}
+}
+
+@article{shen2022root,
+      title={Same Root Different Leaves: Time Series and Cross-Sectional Methods in Panel Data}, 
+      author={Dennis Shen and Peng Ding and Jasjeet Sekhon and Bin Yu},
+      year={2022}
+}
+
+@article{agarwal2020burning,
+      title={Two Burning Questions on COVID-19: Did shutting down the economy help? Can we (partially) reopen the economy without risking the second wave?}, 
+      author={Anish Agarwal and Abdullah Alomar and Arnab Sarker and Devavrat Shah and Dennis Shen and Cindy Yang},
+      year={2020},
+      eprint={2005.00072},
+      archivePrefix={arXiv},
+      primaryClass={econ.EM}
+}
+
+@article{mrsc,
+author = {Amjad, Muhammad and Misra, Vishal and Shah, Devavrat and Shen, Dennis},
+title = {MRSC: Multi-Dimensional Robust Synthetic Control},
+year = {2019},
+issue_date = {June 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {3},
+number = {2},
+abstract = {When evaluating the impact of a policy (e.g., gun control) on a metric of interest (e.g., crime-rate), it may not be possible or feasible to conduct a randomized control trial. In such settings where only observational data is available, synthetic control (SC) methods [2-4] provide a popular data-driven approach to estimate a "synthetic" or "virtual" control by combining measurements of "similar" alternatives or units (called "donors"). Recently, robust synthetic control (RSC) [7] was proposed as a generalization of SC to overcome the challenges of missing data and high levels of noise, while removing the reliance on expert domain knowledge for selecting donors. However, both SC and RSC (and its variants) suffer from poor estimation when the pre-intervention period is too short. As the main contribution of this work, we propose a generalization of unidimensional RSC to multi-dimensional Robust Synthetic Control, mRSC. Our proposed mechanism, mRSC, incorporates multiple types of measurements (or metrics) in addition to the measurement of interest for estimating a synthetic control, thus overcoming the challenge of poor inference due to limited amounts of pre-intervention data. We show that the mRSC algorithm, when using K relevant metrics, leads to a consistent estimator of the synthetic control for the target unit of interest under any metric. Our finite-sample analysis suggests that the mean-squared error (MSE) of our predictions decays to zero at a rate faster than the RSC algorithm by a factor of K and √K for the training (pre-intervention) and testing (post-intervention) periods, respectively. Additionally, we propose a principled scheme to combine multiple metrics of interest via a diagnostic test that evaluates if adding a metric can be expected to result in improved inference. Our mechanism for validating mRSC performance is also an important and related contribution of this work: time series prediction. We propose a method to predict the future evolution of a time series based on limited data when the notion of time is relative and not absolute, i.e., where we have access to a donor pool that has already undergone the desired future evolution. We conduct extensive experimentation to establish the efficacy of mRSC in three different scenarios: predicting the evolution of a metric of interest using synthetically generated data from a known factor model, and forecasting weekly sales and score trajectories of a Walmart store and Cricket game, respectively.},
+journal = {Proc. ACM Meas. Anal. Comput. Syst.},
+month = {jun},
+articleno = {37},
+numpages = {27},
+keywords = {cricket, synthetic control, causal inference, matrix estimation}
+}
+
+@article{pnas_nfl,
+author = {Bernardo García Bulle  and Dennis Shen  and Devavrat Shah  and Anette E. Hosoi },
+title = {Public health implications of opening National Football League stadiums during the COVID-19 pandemic},
+journal = {Proceedings of the National Academy of Sciences},
+volume = {119},
+number = {14},
+pages = {e2114226119},
+year = {2022},
+URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2114226119},
+eprint = {https://www.pnas.org/doi/pdf/10.1073/pnas.2114226119},
+abstract = {Using attendance data from the 2020 National Football League (NFL) regular season and local COVID-19 case counts, we estimate the public health impact of opening NFL stadiums to fans during the COVID-19 pandemic. Data are analyzed using robust synthetic control, a statistical method that is employed to obtain counterfactual estimates from observational data. Unlike previous studies [J. Kurland et al., SSRN, 2021], which do not consider confounding factors such as evolving policy landscapes in different states, the synthetic control methodology allows us to account for effects that are county specific and may be changing over time. We find it is likely that opening stadiums had no impact on local COVID-19 case counts; this suggests that, for the 2020 NFL season, the benefits of providing a tightly controlled outdoor spectating environment—including masking and distancing requirements—counterbalanced the risks associated with opening. These results are specific to the 2020 NFL season, and care should be taken in generalizing our conclusions. In particular, 1) these data reflect a period during which earlier strains of COVID-19 were dominant prior to the emergence of more-transmissive strains such as the Delta and Omicron variants, and 2) the data are restricted to outdoor environments; hence our results cannot be applied to small indoor spaces where transmission-restricting controls are essential.}}
+

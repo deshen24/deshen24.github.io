@@ -1,97 +1,63 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Electrical Engineering and Computer Science
+      institution: Massachusetts Institute of Technology
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MS in Electrical Engineering and Computer Science
+      institution: Massachusetts Institute of Technology
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+    - title: BS in Electrical and Computer Engineering
+      institution: University of California, San Diego
+      year: 2015
+      description:
 
-- title: Experience
+- title: Academic Employment
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor of Data Sciences and Operations
+      institution: University of Southern California, Marshall School of Business
+      year: 2023-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Foundations of Data Science Institute Postdoctoral Fellow
+      institution: University of California, Berkeley, Simons Institute
+      year: 2021-2023
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Industry Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Technical Consultant
+      institution: Uber Technologies
+      year: 2021-2022
+      description:
+    - title: Technical Consultant
+      institution: TauRx Therapeutics
+      year: 2020-2021
+      description:
+    - title: Research Intern
+      institution: Facebook Core Data Science
+      year: 2018
+      description:
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - year: 2021
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - INFORMS George B. Dantzig Dissertation Award, 2nd place
+    - year: 2020
+      items:
+        - MIT George Sprowls PhD Thesis Award in Artificial Intelligence and Decision Making, 1st place
+        - NSF I-Corps Grant, $50k
+    - year: 2017-2020
+      items:
+        - Draper Fellowship
+    - year: 2017-2020
+      items:
+        - National Physical Science Consortium Fellowship (funded by National Security Agency)
+    - year: 2015-2016
+      items:
+        - MIT EECS Advanced Television and Signal Processing Fellowship
