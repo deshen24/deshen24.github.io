@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor. <a href='https://www.marshall.usc.edu/departments/data-sciences-and-operations'>DSO Department</a>. <a href='https://www.marshall.usc.edu/'>USC Marshall Business School</a>.
+subtitle: 
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   address: >
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
