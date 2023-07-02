@@ -1,7 +1,0 @@
----
-layout: post
-date: 2023-06-16 15:59:00-0400
-inline: true
----
-
-To start at [USC Marshall Business School](https://www.marshall.usc.edu/). 
