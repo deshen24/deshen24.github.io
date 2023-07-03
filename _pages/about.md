@@ -21,4 +21,4 @@ Previously, I was a [FODSI](https://fodsi.us/) postdoc fellow at the [Simons Ins
 
 My research interests are broadly at the interface of high-dimensional statistics, machine learning, and causal inference. 
 
-Email: dennis.shen [at] marshall [dot] usc [dot] edu 
+Email: dennis [dot] shen [at] marshall [dot] usc [dot] edu 
