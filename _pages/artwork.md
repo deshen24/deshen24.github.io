@@ -2,14 +2,14 @@
 layout: page
 title: artwork
 permalink: /artwork/
-description: In a previous life, I wanted to be an animator for <a href='https://www.pixar.com/'>Pixar</a>. 
+description: In a previous life, I dreamt of becoming an animator for <a href='https://www.pixar.com/'>Pixar</a>. 
 nav: true
 nav_order: 2
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/avatar.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/emoshens.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,7 +31,7 @@ nav_order: 2
     </div>
 </div>
 <div class="caption">
-    Mike Wazowski at M-eye-T. 
+    M-eye-T hopeful, Baby Mike Wazowski. 
 </div>
 
 <div class="row">
