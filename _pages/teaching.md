@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
+At [USC Marshall](https://www.marshall.usc.edu/)
+- Spring 2024 - BUAD 310 (Applied Business Statistics)
+
 At [MIT](https://www.mit.edu/)
 - Spring 2019 - EECS 6.s077 (Introduction to Data Science and Statistics)
 
