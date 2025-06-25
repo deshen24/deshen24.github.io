@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-27 15:59:00-0400
+date: 2025-04-22 15:59:00-0400
 inline: true
 ---
 
-Our preprint, [Algebraic and Statistical Properties of the Ordinary Least Squares Interpolator](https://arxiv.org/pdf/2309.15769.pdf), is now available on arXiv. This is joint work with [Peng Ding](https://sites.google.com/site/pengdingpku/), [Jasjeet Sekhon](https://statistics.yale.edu/people/jas-sekhon), and [Dogyoon Song](https://sites.google.com/view/dogyoonsong/home). Comments and feedback are greatly appreciated! 
+I am grateful to receive the [USC Dornsife General Education Teaching Award](https://dornsife.usc.edu/ge/awards/) (AY23-24). 

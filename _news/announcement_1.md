@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-05-14 15:59:00-0400
+date: 2025-06-23 15:59:00-0400
 inline: true
 ---
 
-Our paper, [Causal Matrix Completion](https://arxiv.org/abs/2109.15154), was accepted to COLT! This is joint work with [Anish Agarwal](https://sites.google.com/view/anishagarwal), [Munther Dahleh](https://dahleh.lids.mit.edu/), and [Devavrat Shah](https://devavrat.mit.edu/).
+Our paper, [On Model Identification and Out-of-Sample Prediction of
+PCR with Applications to Synthetic Controls](https://arxiv.org/pdf/2010.14449), was accepted to JMLR! This is joint work with [Anish Agarwal](https://sites.google.com/view/anishagarwal) and [Devavrat Shah](https://devavrat.mit.edu/). 
